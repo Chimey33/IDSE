@@ -1,0 +1,6 @@
+20
+Logins:2:Total time online:1:Emails sent:1:Orders processed:1:
+Pizza’s ordered online:0.5:Online Shopping:3:Discord time:4:Messages sent:4:
+Facebook login:2:Instagram use:5:Directories accessed:3:Files deleted:5:
+Programs compiled:4:Files modified:2:Files transferred:5:Downloads:1:
+Links opened:2:Connections requested:1:Files created:1:Permissions changed:5:
